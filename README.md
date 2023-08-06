@@ -1,6 +1,6 @@
 # Weather Application
 
-A simple web-based weather application that provides current weather information for a given city. The application uses the OpenWeatherMap API to fetch weather data and displays it on a user-friendly interface.
+The Weather Application presents real-time temperature, weather description, humidity, and wind speed for a selected city, featuring a dynamic background image that adjusts according to the search. Developed using HTML, CSS, and JavaScript, the app offers intuitive weather insights and a seamless search experience for various cities.
 
 
 ## Features
